@@ -26,7 +26,8 @@ module.exports =  {
       files: ['**/*.ts?(x)'],
       rules: {
         // Place to specify ESLint rules that only target typescript files
-        '@typescript-eslint/no-empty-interface': 0
+        '@typescript-eslint/no-empty-interface': 0,
+        '@typescript-eslint/no-non-null-assertion': 0
       }
     }
   ],
