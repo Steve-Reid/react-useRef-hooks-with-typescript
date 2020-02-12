@@ -1,4 +1,8 @@
-This is a Starter project boilerplate that has been configured with [Typescript](https://www.typescriptlang.org/) [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/).
+This is a small form app that demonstrates how React [useRef hooks](https://reactjs.org/docs/hooks-reference.html#useref) can be uttilised to enable form navigation via keystrokes.
+
+In this case, navigation through the form and is submission can by the 'Enter' key.
+
+Built from a [Starter project boilerplate](https://github.com/Steve-Reid/create-react-app-typescript) that has been configured with [Typescript](https://www.typescriptlang.org/) [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
