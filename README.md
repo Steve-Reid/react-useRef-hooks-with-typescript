@@ -1,4 +1,4 @@
-This is a small form app that demonstrates how React [useRef hooks](https://reactjs.org/docs/hooks-reference.html#useref) can be uttilised to enable form navigation via keystrokes.
+This is a small form app that demonstrates how React [useRef hooks](https://reactjs.org/docs/hooks-reference.html#useref) can be utilised to enable form navigation via keystrokes.
 
 In this case, navigation through the form and is submission can by the 'Enter' key.
 
